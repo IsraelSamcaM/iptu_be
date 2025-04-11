@@ -12,7 +12,6 @@ export const sequelize = new Sequelize(process.env.DATABASE_URL, {
   }
 });
 
-
 sequelize.authenticate()
   .then(() => {
     console.log("Database connection successful");
