@@ -70,7 +70,7 @@ Aqui se visualiza la documentacion de la API utilizando Swagger
 
 ## 🗄️ Diagrama de la base de datos
 
-Aquí se visualiza el esquema general utilizado en MongoDB para la gestión de datos:
+Aquí se visualiza el esquema general utilizado en PostgreSQL para la gestión de datos:
 
 ![PostgreSQL Schema](./src/assets/diagramadb.png)
 
